@@ -1,2 +1,2 @@
 '''python'''
-print("Helloy, World!")
+print("Hello, World!")
